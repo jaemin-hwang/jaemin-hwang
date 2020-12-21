@@ -1,6 +1,6 @@
 ### Hi i'm Jaemin👋
 
-Career
+My Careers
 | Company | Date | Role |
 |--|--|--|
 | 휴브리스 | 2020.06 ~ 현재 | Backend-Developer |
