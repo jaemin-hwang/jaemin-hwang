@@ -16,8 +16,5 @@ Backend-Developer(2020.06 ~ 현재)
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
 
-**Language stats**
-------
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-hwang&langs_count=3&theme=tokyonight)]()
 
 
