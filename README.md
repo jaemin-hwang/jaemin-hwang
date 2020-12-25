@@ -1,7 +1,7 @@
 ### Hi i'm Jaemin👋
 
 
-**Career**
+**경력**
 ------
 [힌터](https://frogworld.co.kr/)
 
