@@ -9,7 +9,7 @@ Full-Stack Developer(2019.05 ~ 2020.03)
 
 [휴브리스](http://dorbom.com/main.html?undefined)
 
-Backend-Developer(2020.06 ~ 현재)
+Backend-Developer(2020.06 ~ 현재)  
 
 **학력**
 ------
