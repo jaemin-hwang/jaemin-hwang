@@ -1,4 +1,4 @@
-### Hi i'm Jaemin👋
+### Hi i'm Jaemin👋😀
 
 
 **경력**
