@@ -10,7 +10,7 @@ Backend-Developer(2020.06 ~ 현재)
 
 [힌터](https://frogworld.co.kr/)
 
-Full-Stack Developer(2019.05 ~ 2020.03)  
+Backend, Web Developer(2019.05 ~ 2020.03)  
 
 
 
@@ -31,11 +31,11 @@ Full-Stack Developer(2019.05 ~ 2020.03)
 
 - php
 - springboot
-- React.js
+- React
 - Next.js
 - Flutter
 - Mysql  
-
+- mongoDB
 
 
 **github stats**
