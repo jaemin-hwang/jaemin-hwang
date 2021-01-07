@@ -31,8 +31,7 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 
 - php
 - springboot
-- React
-- Next.js
+- React(Next.js)
 - Flutter
 - Mysql  
 - mongoDB
