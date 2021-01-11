@@ -34,7 +34,6 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 - React(Next.js)
 - Flutter
 - Mysql  
-- mongoDB
 
 
 **github stats**
