@@ -29,7 +29,7 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 
 ## Stack
 
-- php
+- php5,7
 - springboot
 - React(Next.js)
 - Flutter
