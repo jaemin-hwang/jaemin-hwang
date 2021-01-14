@@ -1,4 +1,4 @@
-### Hi i'm Jaemin👋
+### 안녕하세요 개발자 황재민입니다 🖐
 
 
 **경력**
@@ -56,7 +56,7 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
 
-** <br/>github stats**
+## <br/>github stats
 ------
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
