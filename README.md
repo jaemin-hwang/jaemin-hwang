@@ -57,7 +57,6 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 
 
 ## <br/>github stats
-------
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
 
