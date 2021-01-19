@@ -5,7 +5,7 @@
 **경력**
 ------
 [휴브리스<br/>](http://dorbom.com/main.html?undefined)
-아이돌봄 서비스 "돌봄플러스"
+<mark style='background-color: #dcffe4'> 아이돌봄 서비스 "돌봄플러스" </mark>
 
 Backend-Developer(2020.06 ~ 현재)
 
