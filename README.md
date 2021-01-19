@@ -5,13 +5,13 @@
 **경력**
 ------
 [휴브리스<br/>](http://dorbom.com/main.html?undefined)
-<mark style='background-color: #dcffe4'> 아이돌봄 서비스 "돌봄플러스" </mark>
+<mark style='background-color: #dcffe4'> 아이돌봄 서비스 돌봄플러스 </mark>
 
 Backend-Developer(2020.06 ~ 현재)
 
 
 [<br/>힌터<br/>](https://frogworld.co.kr/)
-한정판 스니커 중개 플랫폼 "Frog"
+한정판 스니커 중개 플랫폼 Frog
 
 Backend, Web Developer(2019.05 ~ 2020.03)  
 
