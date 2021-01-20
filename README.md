@@ -1,8 +1,8 @@
 ### 안녕하세요
-### 개발자 황재민입니다 🖐 <br /><br /><br />
+### 개발자 황재민입니다 🖐 
 
 
-## <br/>github stats
+## github stats
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
 <br /><br />
