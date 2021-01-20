@@ -2,6 +2,11 @@
 ### 개발자 황재민입니다 🖐 <br /><br /><br />
 
 
+## <br/>github stats
+![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
+
+<br /><br />
+
 **경력**
 ------
 [휴브리스<br/>](http://dorbom.com/main.html?undefined)
@@ -76,11 +81,3 @@ Backend, Web Developer(2019.05 ~ 2020.03)
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div>
-
-
-## <br/>github stats
-![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
-
-
-
-
