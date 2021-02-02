@@ -63,7 +63,6 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 ## <br/>Database
 <div style="display:flex, margin-right:5">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 
