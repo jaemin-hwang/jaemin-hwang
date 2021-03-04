@@ -10,7 +10,6 @@
 Backend-Developer(2020.06 ~ 현재)
 ```
 
-
 [<br/>힌터<br/>](https://frogworld.co.kr/)
 
 ```diff
@@ -19,7 +18,7 @@ Backend-Developer(2020.06 ~ 현재)
 Backend, Web Developer(2019.05 ~ 2020.03) 
 ```
 
- 
+
 **<br/>학력**
 ------
 ```diff
@@ -29,13 +28,11 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 ```
   
 
-
 **<br/>교육**
 ------
 ```diff
 더조은아카데미 - 빅데이터 분석을 위한 자바, 파이썬 개발자 (2018.01 ~ 2018.08)  
 ```
-
 
 ## <br/>Server
 <div style="display:flex, margin-right:5px">
@@ -43,7 +40,6 @@ Backend, Web Developer(2019.05 ~ 2020.03)
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
-
 
 ## <br/>Client
 <div style="display:flex, margin-right:5">
@@ -54,19 +50,16 @@ Backend, Web Developer(2019.05 ~ 2020.03)
     <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
-
 ## <br/>Database
 <div style="display:flex, margin-right:5">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
 
 ## <br/>Hosting/SaaS
 <div style="display:flex, margin-right:5">
     <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </div>
-
 
 ## <br/>VCS
 <div style="display:flex, margin-right:5">
