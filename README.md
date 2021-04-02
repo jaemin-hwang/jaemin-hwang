@@ -7,7 +7,7 @@
 ```diff
 아이돌봄 서비스 "돌봄플러스"
 
-Backend-Developer(2020.06 ~ 현재)
+Backend-Developer(2020.06 ~ 2021.03)
 ```
 
 [<br/>힌터<br/>](https://frogworld.co.kr/)
