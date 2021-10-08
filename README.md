@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=%20Jaemin-Hwang%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jaemin&fontAlignY=40&fontSize=100&animation=twinkling)
 <br>
 Hello, this is backend developer Jaemin.
 <br>
@@ -32,6 +32,7 @@ Backend, infra Engineer(2021.04 ~ )
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
 <br><br><br>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
 
 
 
