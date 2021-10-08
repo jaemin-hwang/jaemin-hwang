@@ -1,6 +1,4 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
-
 **경력**
 ------
 [휴브리스<br/>](http://dorbom.com/main.html?undefined)
