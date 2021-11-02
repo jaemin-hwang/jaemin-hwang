@@ -25,9 +25,6 @@ Backend, Web Developer(2019.05 ~ 2020.03)
 [휴브리스<br/>](https://frogworld.co.kr/)
 아이돌봄서비스 "돌봄플러스"<br>
 Backend, Web Developer(2020.06 ~ 2021.03) 
-<br><br>
-모노시그<br/>
-Backend, infra Engineer(2021.04 ~ ) 
 <br><br><br>
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
