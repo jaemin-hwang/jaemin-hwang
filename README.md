@@ -18,13 +18,17 @@ infra <br> ![AWS](https://img.shields.io/badge/AWS-534543?style=flat-square&logo
 
 <br><br><br>
 ## c a r e e r
+[모노시그<br/>](https://monosig.com/)
+한정판 스니커 중개 플랫폼 "Frog"<br>
+Backend, Web Developer
+<br><br>
 [힌터<br/>](https://frogworld.co.kr/)
 한정판 스니커 중개 플랫폼 "Frog"<br>
-Backend, Web Developer(2019.05 ~ 2020.03) 
+Backend, Web Developer
 <br><br>
-[휴브리스<br/>](https://frogworld.co.kr/)
+[휴브리스<br/>](http://dorbom.com/)
 아이돌봄서비스 "돌봄플러스"<br>
-Backend, Web Developer(2020.06 ~ 2021.03) 
+Backend, Web Developer
 <br><br><br>
 ![Jaemin’s github stats](https://github-readme-stats.vercel.app/api?username=jaemin-hwang&show_icons=true&theme=radical&count_private=true)
 
