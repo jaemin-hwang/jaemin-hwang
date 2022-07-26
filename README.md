@@ -19,8 +19,8 @@ infra <br> ![AWS](https://img.shields.io/badge/AWS-534543?style=flat-square&logo
 <br><br><br>
 ## c a r e e r
 [모노시그<br/>](https://monosig.com/)
-Backend, Web Developer
-개발1
+Backend, Web Developer<br>
+개발1팀 팀장
 <br><br>
 [힌터<br/>](https://frogworld.co.kr/)
 한정판 스니커 중개 플랫폼 "Frog"<br>
